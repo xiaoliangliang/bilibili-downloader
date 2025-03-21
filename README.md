@@ -8,3 +8,6 @@
 - 下载视频和音频
 - 自动合并为MP4文件
 - 支持命令行和图形界面两种使用方式
+
+## 作者
+![qrcode_for_gh_d5b46b926293_258](https://github.com/user-attachments/assets/93df9efc-982c-4343-b1ed-d3e5daf1fd0d)
